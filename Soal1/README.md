@@ -32,4 +32,4 @@ Kode tersebut merupakan solusi untuk masalah yang menanyakan bagaimana meminimal
 
 ``` cd Solution-TestProgramming ```
 
-``` python Soal/jawaban1.py ```
+``` python Soal1/jawaban1.py ```
